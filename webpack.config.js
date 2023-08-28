@@ -25,7 +25,7 @@ module.exports = {
          })*/
     ],
     devServer: {
-        port: 5558,
+        port: 5551,
         static: {
             directory: path.join(__dirname, 'dist')
         },

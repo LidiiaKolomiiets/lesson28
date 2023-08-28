@@ -5,7 +5,7 @@
 	border-right: 70px solid transparent;
 	border-bottom: 120px solid rgb(31, 194, 235);
 	position: relative;
-	margin-top: 95px;
+	margin-top: 90px;
 }
 .logo::after{
     width: 0;
